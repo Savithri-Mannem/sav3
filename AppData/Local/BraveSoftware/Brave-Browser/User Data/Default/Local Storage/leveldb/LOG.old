@@ -1,6 +1,3 @@
-2023/12/05-19:53:20.177 3870 Reusing MANIFEST C:\Users\HP\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Local Storage\leveldb/MANIFEST-000001
-2023/12/05-19:53:20.180 3870 Recovering log #25
-2023/12/05-19:53:20.189 3870 Reusing old log C:\Users\HP\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Local Storage\leveldb/000025.log 
-2023/12/05-20:12:22.014 3870 Level-0 table #29: started
-2023/12/05-20:12:22.033 3870 Level-0 table #29: 16793 bytes OK
-2023/12/05-20:12:22.040 3870 Delete type=0 #25
+2023/12/22-19:27:46.880 65e0 Reusing MANIFEST C:\Users\HP\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Local Storage\leveldb/MANIFEST-000001
+2023/12/22-19:27:46.886 65e0 Recovering log #28
+2023/12/22-19:27:46.890 65e0 Reusing old log C:\Users\HP\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Local Storage\leveldb/000028.log 
